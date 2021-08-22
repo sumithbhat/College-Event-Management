@@ -1,0 +1,11 @@
+.btn:not(:disabled):not(.disabled) {
+  padding-bottom: .75rem;
+  bottom: 85px;
+  /*position: absolute;*/
+  /*top: 50px;*/
+}
+
+.img-fluid {
+  width: 900px;
+}
+
